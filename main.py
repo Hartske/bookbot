@@ -1,6 +1,8 @@
-from stats import get_num_words
-from stats import get_num_characters
-from stats import sort_num_characters
+from stats import (
+    get_num_words,
+    get_num_characters,
+    sort_num_characters
+)
 
 
 
